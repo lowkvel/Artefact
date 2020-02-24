@@ -1,0 +1,6 @@
+# Run the './ans1_scrapy/main.py' to scrap comments.
+# Modify the 'max_pages' attribute in './ans1_scrapy/ans1_scrapy/spiders/spider.py' to change max crawl pages.
+python ./ans1_scrapy/main.py
+
+# Run the './ans1_scrapy/restfulapi.py' to search for keyword in comments, Ctrl-C to break.
+python ./ans1_scrapy/restfulapi.py
